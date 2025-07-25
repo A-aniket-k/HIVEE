@@ -1,4 +1,4 @@
-# Full Stack Job Portal with React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI Tutorial 🔥🔥
+# HIVEE THE WORKING HUB FOR ALL 🔥🔥
 
 
 ### Make sure to create a `.env` file with following variables -
