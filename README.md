@@ -8,4 +8,5 @@ VITE_SUPABASE_URL=
 VITE_SUPABASE_ANON_KEY=
 VITE_CLERK_PUBLISHABLE_KEY=
 ```
+https://hivee--weld.vercel.app/
 ### If you are unable to log in to my website, it means that the Supabase backend has either reached its free usage limit or has been paused due to inactivity. 
